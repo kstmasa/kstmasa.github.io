@@ -1,0 +1,12 @@
+---
+layout: post
+title: "【HTML&JS】使用Selector，選取後轉址"
+date: '2017-11-24T11:31:00.000+08:00'
+author: Masa
+tags: 
+modified_time: '2017-11-24T11:31:39.565+08:00'
+blogger_id: tag:blogger.com,1999:blog-1282352724012171769.post-6836113385447319274
+blogger_orig_url: http://masausagi.blogspot.com/2017/11/html.html
+---
+
+<div><center><select onchange="this.options[this.selectedIndex].value &amp;&amp; (window.location = this.options[this.selectedIndex].value);">    <option value="">Select...</option>    <option value="https://www.google.com">Google</option>    <option value="https://www.yahoo.com">Yahoo</option></select></center><center>使用Selector，達到轉址的效果</center></div><br /><a name='more'></a><br /><br /><div style="text-align: center;">原stackoverflow討論串：<a href="https://stackoverflow.com/questions/7562095/redirect-on-select-option-in-select-box">https://stackoverflow.com/questions/7562095/redirect-on-select-option-in-select-box</a></div><div style="text-align: center;"><br /></div><div style="text-align: center;">範例網址：<a href="http://jsfiddle.net/bL5sq/">http://jsfiddle.net/bL5sq/</a></div><div style="text-align: center;"><br /></div><div style="text-align: left;"><br /></div><div style="text-align: left;">利用onchange 的 function 達到選取後，把選取到的值，放進</div><div style="text-align: left;"><br /></div><div style="text-align: left;">window.location = this.options[this.selectedIndex].value</div><div style="text-align: left;"><br /></div><div style="text-align: left;">接者就直接redirect到value所填的網址</div><div style="text-align: left;"><br /></div><div style="text-align: left;">滿好用的一個寫法，分享給各位參考。</div>
