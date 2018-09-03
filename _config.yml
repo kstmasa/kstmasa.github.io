@@ -15,4 +15,4 @@ plugins:
 comments :
   provider : disqus
   disqus :
-    short_name : masablogs    
+    short_name : MasaBlogs    
