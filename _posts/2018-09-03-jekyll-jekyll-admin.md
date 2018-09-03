@@ -4,6 +4,7 @@ layout: post
 date: '2018-09-03 21:00:55'
 author: Masa
 tags: Jekyll - Admin, 編輯, Jekyll編輯
+comments: true
 ---
 
 # Jekyll - Admin
