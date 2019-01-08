@@ -5,7 +5,7 @@ description: >-
 baseurl: "/" 
 url: "https://kstmasa.github.io/blog/" 
 github_username:  kstmasa
-
+logo: "favicon.ico"
 # Build settings
 markdown: kramdown
 theme: minima
