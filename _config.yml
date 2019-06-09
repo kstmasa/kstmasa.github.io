@@ -15,3 +15,4 @@ plugins:
 
 disqus :
   shortname : MasaBlogs    
+google_analytics : UA-141730516-1
