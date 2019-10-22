@@ -1,5 +1,5 @@
 ---
-title: "【Jekyll】 使用Jekyll-Admin 編輯"
+title: 'Jekyll : 使用Jekyll-Admin 編輯'
 layout: post
 date: '2018-09-03 21:00:55'
 author: Masa
