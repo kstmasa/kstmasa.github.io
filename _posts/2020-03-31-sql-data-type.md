@@ -21,3 +21,5 @@ date: '2020-03-31 11:37:00'
 |smallint|short|
 |tinyint|byte|
 |uniqueidentifier|Guid|
+
+[來源網站](https://docs.microsoft.com/zh-tw/dotnet/framework/data/adonet/sql-server-data-type-mappings)
