@@ -1,5 +1,5 @@
 ---
-title: 'ASP.NET : SQL Server Data Types 對應到 C# ASP.NET。'
+title: 'ASP.NET : SQL Server Data Types 對應到 C# ASP.NET'
 layout: post
 author: Masa
 tags: SQL Server Data Types, SQL Server資料型態, C# 資料型態
